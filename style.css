@@ -1,1 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 55px;
+    color:rgb(241, 117, 9);
+}
 
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+#Frase {
+    font-size: 42px;
+    font-weight: bold;
+    color: rgb(252, 221, 21);
+    margin-top: 20px;
+}
+
+img {
+    width: 150px;
+}
